@@ -9,7 +9,7 @@ Addition for OpenCart API
 
 # Installation:
 1. Add product.php to folder: /catalog/controller/api
-2. Add admin.php to foled: /catalog/model/catalog
+2. Add admin.php to folder: /catalog/model/catalog
 
 # Connection:
 1. Post request to: YOUR_WEBSITE/index.php?route=api/login With your API KEY. 
